@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@500;600;700&display=swap');
+$orange: hsl(26, 100%, 55%);
+$pale-orange: hsl(25, 100%, 94%);
+$Very-vark-blue: hsl(220, 13%, 13%);
+$Dark-grayish-blue: hsl(219, 9%, 45%);
+$Grayish-blue: hsl(220, 14%, 75%);
+$Light-grayish-blue: hsl(223, 64%, 98%);
+$White: hsl(0, 0%, 100%);
+$Black : hsl(0, 0%, 0%);
+// $Black (with 75% opacity for lightbox background): hsl(0, 0%, 0%);
+// 
+*{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+:root{
+    --x: 0;
+    --y: 0;
+}
+body{
+    font-size: 16px;
+}
