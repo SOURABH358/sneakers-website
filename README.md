@@ -45,6 +45,6 @@ Users should be able to:
 
 ## Author
 
-- GITHUB - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GITHUB - [Sourabh Yadav](https://www.your-site.com)
+- Frontend Mentor - [@SOURABH358](https://www.frontendmentor.io/profile/SOURABH358)
 
