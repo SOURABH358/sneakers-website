@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-ecommerce-product-page-nt9G_jt7_)
-- Live Site URL: [Add live site URL here](https://sourabh358.github.io/sneakers-website/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-ecommerce-product-page-nt9G_jt7_)
+- Live Site URL: [Live site URL here](https://sourabh358.github.io/sneakers-website/)
 
 ### Built with
 
